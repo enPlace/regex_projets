@@ -22,3 +22,11 @@ input{
     border: 3px solid #ccc;
     outline: none !important;
 }
+
+/*validation styles*/
+input.valid{
+    border-color: rgb(35, 201, 35)
+}
+input.invalid{
+    border-color: rgba(255, 94, 0, 0.671)
+}
