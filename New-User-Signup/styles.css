@@ -25,7 +25,7 @@ input{
 
 /*validation styles*/
 input.valid{
-    border-color: rgb(35, 201, 35)
+    border-color: rgba(35, 201, 35, 0.747)
 }
 input.invalid{
     border-color: rgba(255, 94, 0, 0.671)
